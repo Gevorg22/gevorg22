@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&theme=noctis_minimus&title_color=C9D1D9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
 
-## Repositories
+## The most interesting repositories
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkara-store&theme=react&border_color=0D1117&border_radius=10&title_color=C9D1D9"></a><a align="right" href="https://github.com/gevorg22/react-radio-player" title="react-radio-player"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&theme=react&border_color=0D1117&border_radius=10&title_color=C9D1D9"></a>
