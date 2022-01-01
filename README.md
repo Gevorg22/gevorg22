@@ -42,13 +42,13 @@
 
 ## Repositories
 
-  <a align="left" width="333" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkara-store&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
+  <a width="333" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkara-store&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
   
-  <a align="right"  width="333"  href="https://github.com/gevorg22/react-radio-player" title="react-radio-player"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
+  <a  width="333"  href="https://github.com/gevorg22/react-radio-player" title="react-radio-player"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
 
-  <a align="left" width="333" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
+  <a width="333" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
   
-  <a align="right"  width="333" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
+  <a  width="333" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
 
 
 
