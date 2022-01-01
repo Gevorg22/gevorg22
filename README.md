@@ -40,8 +40,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&theme=noctis_minimus&title_color=C9D1D9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
 
-![Profile views](https://gpvc.arturio.dev/gevorg22) <br />
-
 ## Repositories
 
 <div width="100%" align="center">
