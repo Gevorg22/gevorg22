@@ -2,7 +2,7 @@
 
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-- <h4><a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">React Store</a></h4><br />
+- <a href="https://gevorg22.github.io/react-gkara-store/" target="_blank"><b>React Store</b></a><br />
 
 
 
