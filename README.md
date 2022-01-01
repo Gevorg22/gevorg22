@@ -1,13 +1,10 @@
 ## My skills:
 - JavaScript<br />
-- ReactJS<br />
-- Redux<br />
+- ReactJS, Redux<br />
 - Formik, React Hook Form<br />
 - SCSS / CSS Modules / styled-components <br />
 - Twitter Bootstrap, Material UI, Semantic UI, Ant Design<br />
-- jQuery<br />
-- CSS<br />
-- HTML<br />
+- HTML, CSS<br />
 
 
 ## Contacts
