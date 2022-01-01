@@ -36,6 +36,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&theme=react&bg_color=333333&border_color=0D1117&border_radius=10&title_color=C9D1D9"></a>
   <a align="right" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&theme=react&bg_color=333333&border_color=0D1117&border_radius=10&title_color=C9D1D9"></a>
