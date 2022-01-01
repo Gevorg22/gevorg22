@@ -1,5 +1,9 @@
 <h2> Frontend Developer  </h2>
-
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Gevorg....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <div>
 <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </div>
