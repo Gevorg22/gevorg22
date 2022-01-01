@@ -1,9 +1,6 @@
 <h2> Frontend Developer</h2>
 
-<div>
-  
- ![Profile views](https://gpvc.arturio.dev/gevorg22)
-  
+<div>  
 <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">  
 </div>
 
