@@ -2,16 +2,12 @@
 
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-- 👨🏻‍💻  [1](https://alili.tech/tags/microfrontend/)<br />
-- 👩🏻‍💻  [2](https://alili.tech/tags/taro/)<br />
-- 👨🏻‍💻  [3](https://alili.tech/tags/raspberry-pi/)<br />
-- 👩🏻‍💻  [4](https://alili.tech/tags/nodejs/)<br />
-- 👨🏻‍💻  [5](https://alili.tech/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)<br />
-- 👩🏻‍💻  [6](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)<br />
-- 👨🏻‍💻  [7](https://alili.tech/tags/puppeteer/)<br />
-- 👩🏻‍💻  [8](https://alili.tech/tags/javascript/)<br />
-- 👨🏻‍💻  [9](https://alili.tech/tags/mac/)<br />
-- 👩🏻‍💻  [10](https://alili.tech/tags/angular/)<br />
+- <a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">react-gkara-store/</a><br />
+- <a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">react-gkara-store/</a><br />
+- <a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">react-gkara-store/</a><br />
+- <a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">react-gkara-store/</a><br />
+- <a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">react-gkara-store/</a><br />
+- <a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">react-gkara-store/</a><br />
 
 
 <h2>Things I code with</h2>
