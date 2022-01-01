@@ -1,10 +1,7 @@
-<h2> Frontend Developer  </h2>
+<h2> Frontend Developer  ![Profile views](https://gpvc.arturio.dev/gevorg22) <br /> </h2>
 
 <div>
-<img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
-  
-![Profile views](https://gpvc.arturio.dev/gevorg22) <br />
-  
+<img src="https://intro.rustbridge.com/img/ferris.gif" width="300">  
 </div>
 
 <h3>My skills:</h3>
