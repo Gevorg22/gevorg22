@@ -34,8 +34,9 @@
 
 ## Contacts
 <p><a href="https://github.com/gevorg22" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.instagram.com/gevorg.kara/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a></p>
+
+<a href="https://t.me/Gevorg1989" target="_blank"><img src="https://img.shields.io/badge/telegram-%23E4405F.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
  
 ![Profile views](https://gpvc.arturio.dev/gevorg22) 
 [<img src="https://img.shields.io/badge/Telegram-%40Gevorg1989-blue">](https://t.me/Gevorg1989)
 [<img src="https://img.shields.io/badge/Email-%40gevorg227@gmail.com-orange">](mailto:gevorg227@gmail.com)
-
