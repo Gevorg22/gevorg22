@@ -18,7 +18,7 @@
 ## Some of my Github Stats
 ![Profile views](https://gpvc.arturio.dev/gevorg22)<br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=gevorg22&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)<br />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=gevorg22&theme=noctis_minimus&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&theme=noctis_minimus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
