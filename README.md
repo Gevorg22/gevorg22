@@ -25,9 +25,9 @@
 
 ## Some of my Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=gevorg22&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)<br />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=gevorg22&theme=buefy&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
 
 ## The most interesting repositories
 
