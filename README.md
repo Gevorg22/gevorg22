@@ -42,24 +42,14 @@
 
 ## Repositories
 
-<div>
- <a width="333" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkara-store&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
-  
- <a  width="333"  href="https://github.com/gevorg22/react-radio-player" title="react-radio-player"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
-
- <a width="333" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
-  
- <a  width="333" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
-</div>
-
-
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkara-store&theme=react&border_color=0D1117&border_radius=10"></a><a align="right" href="https://github.com/gevorg22/react-radio-player" title="react-radio-player"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&theme=react&border_color=0D1117&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gevorg22/cheaptrips" title="react-gym-journal"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&theme=react&border_color=0D1117&border_radius=10"></a>
-  <a align="right" href="https://github.com/gevorg22/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&theme=react&border_color=0D1117&border_radius=10"></a>
+  <a align="right" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&theme=react&border_color=0D1117&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
