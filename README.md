@@ -1,4 +1,4 @@
-## Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">>
+## Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gevorg22">
 
@@ -6,6 +6,18 @@
 <img src="https://intro.rustbridge.com/img/ferris.gif" width="300"> 
 </div>
 
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+- 👨🏻‍💻  [1](https://alili.tech/tags/microfrontend/)
+- 👩🏻‍💻  [2](https://alili.tech/tags/taro/)
+- 👨🏻‍💻  [3](https://alili.tech/tags/raspberry-pi/)
+- 👩🏻‍💻  [4](https://alili.tech/tags/nodejs/)
+- 👨🏻‍💻  [5](https://alili.tech/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
+- 👩🏻‍💻  [6](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
+- 👨🏻‍💻  [7](https://alili.tech/tags/puppeteer/)
+- 👩🏻‍💻  [8](https://alili.tech/tags/javascript/)
+- 👨🏻‍💻  [9](https://alili.tech/tags/mac/)
+- 👩🏻‍💻  [10](https://alili.tech/tags/angular/)
 
 
 <h2>Things I code with</h2>
@@ -16,7 +28,8 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+ <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </p>
 
@@ -49,6 +62,6 @@
 <br/>
 
 
-## Contacts 
+## Contacts
 
 <p><a href="https://t.me/Gevorg1989" target="_blank"><img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://www.instagram.com/gevorg.kara/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://github.com/gevorg22" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
