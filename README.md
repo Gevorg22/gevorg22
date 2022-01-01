@@ -53,7 +53,7 @@
 <br/><br/><br/><br/><br/><br/>
 
 <div display: "flex" justify-content:"space-between" >
-  <a align="left" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkarsssa-store&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a><a align="right" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
+  <a display: "flex" flex-basis: "50%" align="left" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkarsssa-store&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a><a display: "flex" flex-basis: "50%"  align="right" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
