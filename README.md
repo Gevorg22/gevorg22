@@ -1,10 +1,10 @@
-<h2> Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+<h2> Frontend Developer  </h2>
 
 <div>
 <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </div>
 
-<h3>My skills:</h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My skills:</h3>
 
 - JavaScript<br />
 - ReactJS<br />
