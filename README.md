@@ -1,4 +1,4 @@
-<h2>Frontend Developer</h2>
+<h2>Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gevorg22">
 
@@ -19,7 +19,7 @@
 - CSS<br />
 - HTML<br />
 
-<h3>Things I code with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3>Things I code with</h3>
 <p align="left"> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
