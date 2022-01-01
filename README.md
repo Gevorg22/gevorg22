@@ -46,3 +46,5 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://gevorg22-github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+
