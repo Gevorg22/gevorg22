@@ -29,6 +29,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&theme=noctis_minimus&title_color=C9D1D9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
 
+
+
+-
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&theme=default&title_color=C9D1D9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
+
+-
+
 ## The most interesting repositories
 
 <div width="100%" align="center">
