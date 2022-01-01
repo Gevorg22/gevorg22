@@ -52,10 +52,6 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-<div display: "flex" justify-content:"space-between" >
-  <a display: "flex" flex-basis: "50%" align="left" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkarsssssssssssssa-store&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a><a display: "flex" flex-basis: "50%"  align="right" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
 ## Contacts
 <p><a href="https://t.me/Gevorg1989" target="_blank"><img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://www.instagram.com/gevorg.kara/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://github.com/gevorg22" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
