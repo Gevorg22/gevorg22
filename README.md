@@ -1,8 +1,11 @@
 <h2> Frontend Developer</h2>
 
-<div>  
-<img src="https://intro.rustbridge.com/img/ferris.gif" width="300">  
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gevorg22">
+
+<h1 align="center">
+<img src="https://intro.rustbridge.com/img/ferris.gif" width="300"> 
+</h1>
+
 
 <h3>My skills:</h3>
 
