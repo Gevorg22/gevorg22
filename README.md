@@ -12,12 +12,12 @@
 
 
 ## Some of my Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=gevorg22&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/gevorg22)<br />
 
-<br />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=gevorg22&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br />
-![Profile views](https://gpvc.arturio.dev/gevorg22)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contacts
 Telegram  - @Gevorg1989<br />
