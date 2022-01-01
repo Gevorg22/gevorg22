@@ -3,12 +3,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 -<a href="https://gevorg22.github.io/react-gkara-store/" target="_blank"><b>React Store</b></a><br />
-- [React Store](https://gevorg22.github.io/react-gkara-store/)
-<a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">react-gkara-store</a><br />
-<a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">react-gkara-store</a><br />
-<a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">react-gkara-store</a><br />
-<a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">react-gkara-store</a><br />
-<a href="https://gevorg22.github.io/react-gkara-store/" target="_blank">react-gkara-store</a><br />
+
 
 
 <h2>Things I code with</h2>
