@@ -29,12 +29,11 @@ Here are some ideas to get you started:
 
 
 ## Contacts
-Telegram  - @Gevorg1989
+Telegram  - @Gevorg1989<br />
 Instagram - https://www.instagram.com/gevorg.kara/
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=gevorg22&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
