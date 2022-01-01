@@ -1,4 +1,4 @@
-## Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+## Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gevorg22">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gevorg22">
 
