@@ -9,6 +9,7 @@
 - CSS<br />
 - HTML<br />
 
+![Profile views](https://gpvc.arturio.dev/gevorg22)
 
 ## Some of my Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=gevorg22&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
