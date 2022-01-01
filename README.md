@@ -4,7 +4,7 @@
 <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </div>
 
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My skills:</h3>
+<h3>My skills:</h3>
 
 - JavaScript<br />
 - ReactJS<br />
@@ -16,7 +16,7 @@
 - CSS<br />
 - HTML<br />
 
-<h3>Things I code with</h3>
+<h3>Things I code with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="left"> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
