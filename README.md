@@ -42,15 +42,8 @@
 
 ## Repositories
 
-<div>
- <a width="333" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkara-store&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
-  
- <a  width="333"  href="https://github.com/gevorg22/react-radio-player" title="react-radio-player"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
 
- <a width="333" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
-  
- <a  width="333" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb"></a>
-</div>
+
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -61,16 +54,7 @@
   <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
+
 
 
 ## Contacts
