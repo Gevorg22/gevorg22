@@ -1,11 +1,5 @@
 ## Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gevorg22">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gevorg22">
-
-<div align="center">
-<img src="https://intro.rustbridge.com/img/ferris.gif" width="300"> 
-</div>
-
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 👨🏻‍💻  [1](https://alili.tech/tags/microfrontend/)
