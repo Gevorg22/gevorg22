@@ -1,5 +1,5 @@
 ## My skills:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 - JavaScript<br />
 - ReactJS<br />
 - Redux<br />
