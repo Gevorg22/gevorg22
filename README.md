@@ -16,7 +16,35 @@ Here are some ideas to get you started:
 -->
 
 
+## My skills:
+<b>Frontend</b>
+JavaScript (ES6+)
+ReactJS
+Redux
+Formik, React Hook Form
+SCSS / CSS Modules / styled-components 
+Twitter Bootstrap, Material UI, Semantic UI,
+jQuery
+CSS
+HTML
+
+<b>Backend</b>:
+PHP (basic) 
+
+<b>Other</b>:
+Git 
+BEM
+Opencart
+Figma
+
+
+## Contacts
+Telegram  - @Gevorg1989
+<br />
+Instagram - https://www.instagram.com/gevorg.kara/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=gevorg22&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
