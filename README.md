@@ -43,8 +43,8 @@
 <p><a href="https://t.me/Gevorg1989" target="_blank"><img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://www.instagram.com/gevorg.kara/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://github.com/gevorg22" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
 
 <a href="https://github.com/gevorg22/react-radio-player">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://gevorg22-github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+
 
