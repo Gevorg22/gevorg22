@@ -45,5 +45,5 @@
 
 
 <a href="https://github.com/gevorg22/react-radio-player">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&border_color=61dafb&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=61dafb" />
 </a>
