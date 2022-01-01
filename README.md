@@ -1,4 +1,4 @@
-<h2> Hi, I'm Gevorg, Frontend Developer from Russia</h2>
+<h2>Frontend Developer</h2>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gevorg22">
 
