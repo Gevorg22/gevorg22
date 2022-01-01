@@ -48,6 +48,11 @@
 <br/>
 
 
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&theme=buefy"></a>
+  <a align="right" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&theme=buefy"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
 <a href="https://github.com/gevorg22/react-gym-journal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&theme=buefy" />
@@ -58,13 +63,6 @@
 
 <br />
 <br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 
 
 
