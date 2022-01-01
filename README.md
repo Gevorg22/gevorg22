@@ -2,9 +2,9 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gevorg22">
 
-<h1 align="center">
+<div align="center">
 <img src="https://intro.rustbridge.com/img/ferris.gif" width="300"> 
-</h1>
+</div>
 
 
 
