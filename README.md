@@ -1,6 +1,4 @@
-<h1>Fancy seeing you here! </h1>
-
-<h2> Frontend Developer  </h2>
+<h2>Fancy seeing you here!</h2>
 
 <div>
 <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
@@ -45,7 +43,7 @@
 <p><a href="https://t.me/Gevorg1989" target="_blank"><img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://www.instagram.com/gevorg.kara/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://github.com/gevorg22" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
 
 <a href="https://github.com/gevorg22/react-radio-player">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
 
