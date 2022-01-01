@@ -2,6 +2,9 @@
 
 <div>
 <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+  
+![Profile views](https://gpvc.arturio.dev/gevorg22) <br />
+  
 </div>
 
 <h3>My skills:</h3>
