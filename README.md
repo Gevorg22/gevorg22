@@ -27,9 +27,9 @@
 
 ## Some of my Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=gevorg22&theme=noctis_minimus&show_icons=true&hide=issues,contribs)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=gevorg22&theme=noctis_minimus&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&theme=noctis_minimus&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&theme=noctis_minimus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contacts
