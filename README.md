@@ -1,4 +1,4 @@
-<h2> Frontend Developer. ReactJS, JavaScript, CSS, HTML <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+<h2> Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
 
 <h3>My skills:</h3>
