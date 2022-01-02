@@ -3,6 +3,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+<h2>Here are some pet-projects:</h2>
 - [An example of a simple online store](https://gevorg22.github.io/react-gkara-store/)
 - [Online radio player](https://gevorg22.github.io/react-radio-player/)
 - [An application for monitoring power parameters](https://gevorg22.github.io/react-gym-journal/)
