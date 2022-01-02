@@ -3,9 +3,13 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- [an example of a simple online store](https://gevorg22.github.io/react-gkara-store/#/)
-
-
+- [An example of a simple online store](https://gevorg22.github.io/react-gkara-store/)
+- [Online radio player](https://gevorg22.github.io/react-radio-player/)
+- [An application for monitoring power parameters](https://gevorg22.github.io/react-gym-journal/)
+- [A website with a search for air tickets.](https://gevorg22.github.io/cheaptrips/)
+<br/>
+<br/>
+<br/>
 
 <h2>Things I code with</h2>
 <p align="left"> 
