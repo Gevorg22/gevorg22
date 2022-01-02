@@ -6,7 +6,10 @@
 - [An example of a simple online store](https://gevorg22.github.io/react-gkara-store/)
 - [Online radio player](https://gevorg22.github.io/react-radio-player/)
 - [An application for monitoring power parameters](https://gevorg22.github.io/react-gym-journal/)
-- [A website with a search for air tickets.](https://gevorg22.github.io/cheaptrips/)
+- [A website with a search for air tickets](https://gevorg22.github.io/cheaptrips/)
+- [An example of adaptive site layout](https://gevorg22.github.io/gkara-store/)
+- [A website with a movie search](https://gevorg22.github.io/gkara-filmsearch/)
+- [Keyboard simulator.](https://gevorg22.github.io/speed-typing-app/)
 <br/>
 <br/>
 <br/>
