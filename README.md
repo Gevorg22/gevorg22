@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- [s](https:s)
+- [an example of a simple online store](https://gevorg22.github.io/react-gkara-store/#/)
 
 
 
