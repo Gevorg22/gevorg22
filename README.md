@@ -45,21 +45,24 @@
 ## The most interesting repositories
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkara-store&theme=buefy"></a><a align="right" href="https://github.com/gevorg22/react-radio-player" title="react-radio-player"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&theme=buefy"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&theme=buefy"></a>
-  <a align="right" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&theme=buefy"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<br/>
-<br/>
-
-<div width="100%" align="center">
+  <a align="left" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkara-store&theme=buefy"></a>
   <a align="left" href="https://gevorg22.github.io/react-github-app/" title="react-github-app"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-github-app&theme=buefy"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<br/>
+
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/gevorg22/react-radio-player" title="react-radio-player"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&theme=buefy"></a>
+  <a align="left" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&theme=buefy"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<br/>
+<br/>
+
+
+
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&theme=buefy"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
