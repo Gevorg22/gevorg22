@@ -6,6 +6,7 @@
 
 <h3>Here are some of my pet projects:</h3>
 
+- [Github account search application](https://gevorg22.github.io/react-github-app/)
 - [An example of a simple online store](https://gevorg22.github.io/react-gkara-store/)
 - [Online radio player](https://gevorg22.github.io/react-radio-player/)
 - [An application for monitoring power parameters](https://gevorg22.github.io/react-gym-journal/)
@@ -55,6 +56,15 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&theme=buefy"></a>
   <a align="right" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&theme=buefy"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
+
+
+
+<div width="100%" align="center">
+  <a align="left" href="https://gevorg22.github.io/react-github-app/" title="react-github-app"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-github-app&theme=buefy"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
