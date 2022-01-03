@@ -46,7 +46,7 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkara-store&theme=buefy"></a>
-  <a align="right" href="https://gevorg22.github.io/react-github-app/" title="react-github-app"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-github-app&theme=buefy"></a>
+  <a align="right" href="https://github.com/gevorg22/react-github-app" title="react-github-app"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-github-app&theme=buefy"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <br/>
