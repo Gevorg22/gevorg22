@@ -49,9 +49,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-
-
-
+<br/>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&theme=buefy"></a>
@@ -59,9 +57,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-
-
-
+<br/>
 
 <div width="100%" align="center">
   <a align="left" href="https://gevorg22.github.io/react-github-app/" title="react-github-app"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-github-app&theme=buefy"></a>
