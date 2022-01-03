@@ -55,7 +55,7 @@
   <a align="right" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&theme=buefy"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
+<br/>
 <br/>
 
 <div width="100%" align="center">
