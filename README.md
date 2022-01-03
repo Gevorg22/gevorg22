@@ -52,7 +52,7 @@
 <br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/gevorg22/react-radio-player" title="react-radio-player"><img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&theme=buefy"></a>
+  <a height="140px"  align="left" href="https://github.com/gevorg22/react-radio-player" title="react-radio-player"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&theme=buefy"></a>
   <a align="right" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&theme=buefy"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
