@@ -41,31 +41,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gevorg22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues,contribs" alt="gevorg22 github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-/*
-## The most interesting repositories
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/gevorg22/react-gkara-store" title="react-gkara-store"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gkara-store&theme=buefy"></a>
-  <a align="right" href="https://github.com/gevorg22/react-github-app" title="react-github-app"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-github-app&theme=buefy"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/gevorg22/react-radio-player" title="react-radio-player"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-radio-player&theme=buefy"></a>
-  <a align="right" href="https://github.com/gevorg22/react-gym-journal" title="react-gym-journal"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=react-gym-journal&theme=buefy"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<br/>
-<br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/gevorg22/cheaptrips" title="cheaptrips"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gevorg22&repo=cheaptrips&theme=buefy"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<br/>
-*/
 
 
 ## Contacts
