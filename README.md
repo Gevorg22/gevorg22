@@ -40,7 +40,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gevorg22&show_icons=true&hide=issues&theme=Default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gevorg22&show_icons=true&hide=issues,contribs&theme=Default)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
