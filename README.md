@@ -13,6 +13,7 @@
 - [Flight search website](https://gevorg22.github.io/cheaptrips/)
 - [An example of adaptive site layout](https://gevorg22.github.io/gkara-store/)
 - [A website with a movie search](https://gevorg22.github.io/gkara-filmsearch/)
+- [The todo application](https://gevorg22.github.io/react-redux-todo/)
 - [Keyboard simulator](https://gevorg22.github.io/speed-typing-app/)
 <br/>
 <br/>
