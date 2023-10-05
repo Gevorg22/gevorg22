@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 
 <h3>Here are some of my pet projects:</h3>
 
@@ -37,13 +37,7 @@
 <br />
 <br />
 
-## Some of my Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gevorg22&show_icons=true&hide=issues,contribs&theme=Default)
 
 
 ## Contacts
