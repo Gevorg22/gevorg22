@@ -16,12 +16,6 @@
 - [The todo application](https://gevorg22.github.io/react-redux-todo/)
 - [Keyboard simulator](https://gevorg22.github.io/speed-typing-app/)
 <br/>
-<br/>
-<br/>
-
-
-<br />
-
 
 
 
