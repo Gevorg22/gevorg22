@@ -1,8 +1,8 @@
-## Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> <img align="right" src="https://gpvc.arturio.dev/gevorg22">
+## Frontend Developer 
 <br/>
 <br/>
 
-
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <h3>Here are some of my pet projects:</h3>
 
