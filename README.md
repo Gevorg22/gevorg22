@@ -1,16 +1,16 @@
-# Frontend Developer
+<p align="center">
+  <img
+    src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+    width="280"
+    alt="Developer gif"
+  />
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="35%" valign="top">
-      <img 
-        src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" 
-        width="100%" 
-        alt="Developer gif"
-      />
-    </td>
-    <td width="65%" valign="top">
-      <h2>Here are some of my pet projects:</h2>
+<h1 align="center">Frontend Developer</h1>
+
+---
+
+## Here are some of my pet projects:
 
 - **[Online clothes store (Next.js)](https://nextjs-clothes-store.vercel.app/)**  
   *Next Clothes* — интернет-магазин одежды на Next.js.  
@@ -38,28 +38,47 @@
 - **[Online radio player](https://gevorg22.github.io/react-radio-player/)**  
   Радиоплеер с переключением станций.  
   **Технологии:** React 17, React Router DOM, FontAwesome, Node Sass.
-    </td>
-  </tr>
-</table>
 
 ---
 
 ## Some of my Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&layout=compact&theme=default"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/gevorg22">
+    View more stats on GitHub →
+  </a>
+</p>
 
 ---
 
 ## Contacts
 
-<p>
+<p align="center">
   <a href="https://t.me/Gevorg1989" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img
+      src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"
+    >
   </a>
+
   <a href="https://www.instagram.com/gevorg.kara/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img
+      src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    >
   </a>
+
   <a href="https://github.com/gevorg22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img
+      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    >
   </a>
 </p>
