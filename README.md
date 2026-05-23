@@ -1,8 +1,8 @@
 # Frontend Developer
 
-<div align="right">
-  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 ## Here are some of my pet projects:
 
@@ -33,6 +33,18 @@
   Радиоплеер с переключением станций.  
   **Технологии:** React 17, React Router DOM, FontAwesome, Node Sass.
 
+    </td>
+
+    <td width="40%" valign="top">
+      <img 
+        src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+        width="100%"
+        alt="Developer gif"
+      />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Some of my Github Stats
@@ -44,7 +56,24 @@
 ## Contacts
 
 <p>
-  <a href="https://t.me/Gevorg1989" target="_blank"><img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://www.instagram.com/gevorg.kara/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://github.com/gevorg22" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://t.me/Gevorg1989" target="_blank">
+    <img
+      src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"
+    >
+  </a>
+
+  <a href="https://www.instagram.com/gevorg.kara/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    >
+  </a>
+
+  <a href="https://github.com/gevorg22" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    >
+  </a>
 </p>
