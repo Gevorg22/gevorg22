@@ -1,6 +1,8 @@
 # Frontend Developer
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<div align="right">
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</div>
 
 ## Here are some of my pet projects:
 
