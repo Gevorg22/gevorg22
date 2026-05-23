@@ -6,24 +6,19 @@
 
 <h3>Here are some of my pet projects:</h3>
 
+- [Online clothes store (Next.js)](https://nextjs-clothes-store.vercel.app/)
+- [Frontend interview questions](https://gevorg22.github.io/frontend-interview-questions)
 - [Github account search application](https://gevorg22.github.io/react-github-app/)
 - [An example of a simple online store](https://gevorg22.github.io/react-gkara-store/)
+- [React Three.js interactive scene](https://gevorg22.github.io/react-three-app/)
 - [Online radio player](https://gevorg22.github.io/react-radio-player/)
-- [An application for monitoring power parameters](https://gevorg22.github.io/react-gym-journal/)
-- [Flight search website](https://gevorg22.github.io/cheaptrips/)
-- [An example of adaptive site layout](https://gevorg22.github.io/gkara-store/)
-- [A website with a movie search](https://gevorg22.github.io/gkara-filmsearch/)
-- [The todo application](https://gevorg22.github.io/react-redux-todo/)
-- [Keyboard simulator](https://gevorg22.github.io/speed-typing-app/)
 <br/>
-
 
 ## Some of my Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevorg22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-
 
 ## Contacts
 
