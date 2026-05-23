@@ -9,7 +9,7 @@
 ## Here are some of my pet projects:
 
 - **[Online clothes store (Next.js)](https://nextjs-clothes-store.vercel.app/)**  
-  *Next Clothes* — интернет-магазин одежды на Next.js.  
+  *Next Clothes* - интернет-магазин одежды на Next.js.  
   **Технологии:** Next.js, TypeScript, TailwindCSS, ShadCN, Prisma, PostgreSQL, NextAuth, Zustand, React Hook Form, Zod, Resend.  
   **Возможности:** каталог с фильтрацией по размеру/цвету/цене, сортировка, поиск, модальная карточка товара, корзина, оформление заказа, авторизация по email с кодом.
 
@@ -27,7 +27,7 @@
   **Технологии:** React 17, React Router DOM, Axios, Node Sass.
 
 - **[React Three.js interactive scene](https://gevorg22.github.io/react-three-app/)**  
-  *3D Конфигуратор помещения* — интерактивная визуализация комнаты с настройкой размеров, выбором раскладки пола и расчётом материалов.  
+  *3D Конфигуратор помещения* - интерактивная визуализация комнаты с настройкой размеров, выбором раскладки пола и расчётом материалов.  
   **Технологии:** React 19, TypeScript, Vite, React Three Fiber, Three.js, @react-three/drei.  
   **Возможности:** изменение ширины/длины/высоты, два паттерна укладки («ёлочка» и прямая), покраска стен, плинтус, динамический расчёт площади, погонажа и количества материалов.
 
