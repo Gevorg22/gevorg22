@@ -1,8 +1,5 @@
 # Frontend Developer
 
-<br/>
-<br/>
-
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## Here are some of my pet projects:
