@@ -1,16 +1,12 @@
+<img 
+  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" 
+  width="300" 
+  alt="Developer gif"
+/>
+
 # Frontend Developer
 
-<table width="100%">
-  <tr>
-    <td width="35%" valign="top">
-      <img 
-        src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" 
-        width="100%" 
-        alt="Developer gif"
-      />
-    </td>
-    <td width="65%" valign="top">
-      <h2>Here are some of my pet projects:</h2>
+## Here are some of my pet projects:
 
 - **[Online clothes store (Next.js)](https://nextjs-clothes-store.vercel.app/)**  
   *Next Clothes* — интернет-магазин одежды на Next.js.  
@@ -38,6 +34,3 @@
 - **[Online radio player](https://gevorg22.github.io/react-radio-player/)**  
   Радиоплеер с переключением станций.  
   **Технологии:** React 17, React Router DOM, FontAwesome, Node Sass.
-    </td>
-  </tr>
-</table>
