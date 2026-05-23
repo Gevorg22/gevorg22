@@ -1,10 +1,16 @@
 # Frontend Developer
 
-<table>
+<table width="100%">
   <tr>
-    <td width="60%" valign="top">
-
-## Here are some of my pet projects:
+    <td width="35%" valign="top">
+      <img 
+        src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" 
+        width="100%" 
+        alt="Developer gif"
+      />
+    </td>
+    <td width="65%" valign="top">
+      <h2>Here are some of my pet projects:</h2>
 
 - **[Online clothes store (Next.js)](https://nextjs-clothes-store.vercel.app/)**  
   *Next Clothes* — интернет-магазин одежды на Next.js.  
@@ -32,15 +38,6 @@
 - **[Online radio player](https://gevorg22.github.io/react-radio-player/)**  
   Радиоплеер с переключением станций.  
   **Технологии:** React 17, React Router DOM, FontAwesome, Node Sass.
-
-    </td>
-
-    <td width="40%" valign="top">
-      <img 
-        src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-        width="100%"
-        alt="Developer gif"
-      />
     </td>
   </tr>
 </table>
@@ -57,23 +54,12 @@
 
 <p>
   <a href="https://t.me/Gevorg1989" target="_blank">
-    <img
-      src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Telegram"
-    >
+    <img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-
   <a href="https://www.instagram.com/gevorg.kara/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    >
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-
   <a href="https://github.com/gevorg22" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    >
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
