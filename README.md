@@ -24,7 +24,7 @@
 
 - **[An example of a simple online store](https://gevorg22.github.io/react-gkara-store/)**  
   Пример простого интернет-магазина одежды с бэкендом на MockAPI.  
-  **Технологии:** React 17, React Router DOM, Axios.
+  **Технологии:** React 17, Axios.
 
 - **[React Three.js interactive scene](https://gevorg22.github.io/react-three-app/)**  
   *3D Конфигуратор помещения* - интерактивная визуализация комнаты с настройкой размеров, выбором раскладки пола и расчётом материалов.  
