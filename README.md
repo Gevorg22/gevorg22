@@ -33,4 +33,4 @@
 
 - **[Online radio player](https://gevorg22.github.io/react-radio-player/)**  
   Радиоплеер с переключением станций.  
-  **Технологии:** React 17, React Router DOM, FontAwesome.
+  **Технологии:** React 17, FontAwesome.
