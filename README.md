@@ -33,11 +33,3 @@
 
 - Primary email: gevorg.kara@yandex.ru  
 - Secondary email: gevorg227@gmail.com
-
-## 
-
-<img 
-  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" 
-  width="300" 
-  alt="Developer gif"
-/>
