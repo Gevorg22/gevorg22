@@ -1,6 +1,6 @@
 # Frontend Developer | React • TypeScript • High-Load Applications
 
-## Here are some of my pet projects:
+## Featured Projects:
 
 - **[Online clothes store (Next.js)](https://nextjs-clothes-store.vercel.app/)**  
   *Next Clothes* - интернет-магазин одежды на Next.js.  
