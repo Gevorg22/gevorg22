@@ -20,17 +20,17 @@
 
 - **[Github account search application](https://gevorg22.github.io/react-github-app/)**  
   Поиск аккаунтов GitHub с отображением профиля и репозиториев.  
-  **Технологии:** React 17, Axios, React Scripts.
+  **Технологии:** React 17, Axios.
 
 - **[An example of a simple online store](https://gevorg22.github.io/react-gkara-store/)**  
   Пример простого интернет-магазина одежды с бэкендом на MockAPI.  
-  **Технологии:** React 17, React Router DOM, Axios, Node Sass.
+  **Технологии:** React 17, React Router DOM, Axios.
 
 - **[React Three.js interactive scene](https://gevorg22.github.io/react-three-app/)**  
   *3D Конфигуратор помещения* - интерактивная визуализация комнаты с настройкой размеров, выбором раскладки пола и расчётом материалов.  
-  **Технологии:** React 19, TypeScript, Vite, React Three Fiber, Three.js, @react-three/drei.  
+  **Технологии:** React 19, TypeScript, Vite, React Three Fiber, Three.js.  
   **Возможности:** изменение ширины/длины/высоты, два паттерна укладки («ёлочка» и прямая), покраска стен, плинтус, динамический расчёт площади, погонажа и количества материалов.
 
 - **[Online radio player](https://gevorg22.github.io/react-radio-player/)**  
   Радиоплеер с переключением станций.  
-  **Технологии:** React 17, React Router DOM, FontAwesome, Node Sass.
+  **Технологии:** React 17, React Router DOM, FontAwesome.
