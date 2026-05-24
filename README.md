@@ -31,5 +31,5 @@
 
 ## Contacts
 
-- Primary email: gevorg.kara@yandex.ru  
-- Secondary email: gevorg227@gmail.com
+- Primary email: gevorg227@gmail.com
+- Secondary email: gevorg.kara@yandex.ru
