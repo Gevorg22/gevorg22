@@ -1,10 +1,4 @@
-<img 
-  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" 
-  width="300" 
-  alt="Developer gif"
-/>
-
-# Frontend Developer
+# Frontend Developer | React • TypeScript • High-Load Applications
 
 ## Here are some of my pet projects:
 
@@ -34,3 +28,14 @@
 - **[Online radio player](https://gevorg22.github.io/react-radio-player/)**  
   Радиоплеер с переключением станций.  
   **Технологии:** React 17, FontAwesome.
+
+## Contacts
+
+- Primary email: gevorg.kara@yandex.ru  
+- Secondary email: gevorg227@gmail.com
+
+<img 
+  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" 
+  width="200" 
+  alt="Developer gif"
+/>
