@@ -1,4 +1,4 @@
-# Frontend Developer | React • TypeScript • High-Load Applications
+# Frontend Developer
 
 ## Featured Projects:
 
