@@ -33,3 +33,4 @@
 
 - Primary email: gevorg227@gmail.com
 - Secondary email: gevorg.kara@yandex.ru
+- Telegram: https://t.me/Gevorg1989
