@@ -2,7 +2,7 @@
 
 ## Featured Projects:
 
-- **[BarCompass (Next.js)]([https://https://gevorg22.github.io/bar-compass-app]/)**  
+- **[BarCompass (Next.js)](https://https://gevorg22.github.io/bar-compass-app/)**  
   *BarCompass* -  PWA для поиска ближайших баров, пабов, клубов и маркетов через компас, радар и карту на Next.js.  
   **Технологии:** Next.js 16, TypeScript strict, Zustand, Framer Motion, MapLibre GL, Overpass API, CSS Modules.  
   **Возможности:** три режима просмотра (компас с анимированной стрелкой, радар с точками, карта с маркерами), фильтры по типу заведения, карточка с временем работы и кнопкой маршрута, реальный компас на мобилках (API ориентации устройства), работа через GPS браузера и бесплатное OpenStreetMap API без регистрации.
