@@ -30,10 +30,6 @@
   **Технологии:** React, TypeScript, Vite, React Three Fiber, Three.js.  
   **Возможности:** изменение ширины/длины/высоты, два паттерна укладки («ёлочка» и прямая), покраска стен, плинтус, динамический расчёт площади, погонажа и количества материалов.
 
-- **[Online radio player](https://gevorg22.github.io/react-radio-player/)**  
-  Радиоплеер с переключением станций.  
-  **Технологии:** React, FontAwesome.
-
 ## Contacts
 
 - Primary email: gevorg227@gmail.com
