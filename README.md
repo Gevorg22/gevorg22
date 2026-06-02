@@ -20,7 +20,9 @@
 
 ### **[BarCompass](https://gevorg22.github.io/bar-compass-app/)**
 *BarCompass* — PWA для поиска ближайших баров, пабов, клубов и маркетов через компас, радар и карту.
+
 **Технологии:** Next.js 16, TypeScript strict, Zustand, Framer Motion, MapLibre GL, Overpass API, CSS Modules.
+
 **Возможности:**
 * компас с анимированной стрелкой к ближайшему заведению;
 * радар с отображением объектов вокруг пользователя;
@@ -34,7 +36,9 @@
 
 ### **[Online Clothes Store (Next.js)](https://nextjs-clothes-store.vercel.app/)**
 *Next Clothes* — интернет-магазин одежды с каталогом товаров, корзиной и авторизацией по email.
+
 **Технологии:** Next.js, TypeScript, TailwindCSS, ShadCN, Prisma, PostgreSQL, NextAuth, Zustand, React Hook Form, Zod, Resend.
+
 **Возможности:**
 * каталог товаров с фильтрацией и сортировкой;
 * поиск и просмотр карточек товаров;
@@ -45,7 +49,9 @@
 
 ### **[Frontend Interview Questions](https://gevorg22.github.io/frontend-interview-questions/)**
 Интерактивное приложение для подготовки к frontend-собеседованиям.
+
 **Технологии:** React, TypeScript, Ant Design, Vite.
+
 **Возможности:**
 * более 1085 вопросов по 11 категориям;
 * отслеживание прогресса обучения;
@@ -56,12 +62,14 @@
 
 ### **[Github Account Search Application](https://gevorg22.github.io/react-github-app/)**
 Поиск пользователей GitHub с отображением профиля и репозиториев.
+
 **Технологии:** React, Axios.
 
 ---
 
 ### **[Simple Online Store](https://gevorg22.github.io/react-gkara-store/)**
 Пример интернет-магазина одежды с использованием MockAPI.
+
 **Технологии:** React, Axios.
 
 
