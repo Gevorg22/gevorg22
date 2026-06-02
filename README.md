@@ -4,7 +4,9 @@
 
 ### **[FitMetrics](https://github.com/Gevorg22/fit-metrics)**
 *FitMetrics* — минималистичный дневник тренировок с авторизацией по одноразовому коду на email, историей тренировок, отслеживанием веса и статистикой прогресса.
+
 **Технологии:** Next.js 16 (App Router), TypeScript, Ant Design 6, SCSS Modules, Prisma, PostgreSQL, NextAuth v5, Zustand, Recharts, Resend.
+
 **Возможности:**
 * авторизация по email через OTP-код без паролей;
 * гостевой режим для быстрого знакомства с приложением;
