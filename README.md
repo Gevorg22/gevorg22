@@ -2,7 +2,7 @@
 
 ## Featured Projects
 
-### **[FitMetrics](https://github.com/Gevorg22/fit-metrics)**
+### **[FitMetrics](https://fit-metrics-xi.vercel.app/)**
 *FitMetrics* — минималистичный дневник тренировок с авторизацией по одноразовому коду на email, историей тренировок, отслеживанием веса и статистикой прогресса.
 
 **Технологии:** Next.js 16, TypeScript, Ant Design 6, SCSS Modules, Prisma, PostgreSQL, NextAuth v5, Zustand, Recharts, Resend.
