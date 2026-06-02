@@ -45,19 +45,6 @@
 * корзина и оформление заказа;
 * авторизация по email через одноразовый код.
 
----
-
-### **[Github Account Search Application](https://gevorg22.github.io/react-github-app/)**
-Поиск пользователей GitHub с отображением профиля и репозиториев.
-
-**Технологии:** React, Axios.
-
----
-
-### **[Simple Online Store](https://gevorg22.github.io/react-gkara-store/)**
-Пример интернет-магазина одежды с использованием MockAPI.
-
-**Технологии:** React, Axios.
 
 
 ## Contacts
