@@ -3,7 +3,7 @@
 ## Featured Projects
 
 ### **[FitMetrics](https://fit-metrics-xi.vercel.app/)**
-*FitMetrics* — минималистичный дневник тренировок с авторизацией по одноразовому коду на email, историей тренировок, отслеживанием веса и статистикой прогресса.
+*FitMetrics*, минималистичный дневник тренировок с авторизацией по одноразовому коду на email, историей тренировок, отслеживанием веса и статистикой прогресса.
 
 **Технологии:** Next.js 16, TypeScript, Ant Design 6, SCSS Modules, Prisma, PostgreSQL, NextAuth v5, Zustand, Recharts, Resend.
 
@@ -19,7 +19,7 @@
 ---
 
 ### **[BarCompass](https://gevorg22.github.io/bar-compass-app/)**
-*BarCompass* — PWA для поиска ближайших баров, пабов, клубов и маркетов через компас, радар и карту.
+*BarCompass*, PWA для поиска ближайших баров, пабов, клубов и маркетов через компас, радар и карту.
 
 **Технологии:** Next.js 16, TypeScript, Zustand, Framer Motion, MapLibre GL, Overpass API, CSS Modules.
 
@@ -35,7 +35,7 @@
 ---
 
 ### **[Online Clothes Store](https://nextjs-clothes-store.vercel.app/)**
-*Next Clothes* — интернет-магазин одежды с каталогом товаров, корзиной и авторизацией по email.
+*Next Clothes*, интернет-магазин одежды с каталогом товаров, корзиной и авторизацией по email.
 
 **Технологии:** Next.js, TypeScript, TailwindCSS, ShadCN, Prisma, PostgreSQL, NextAuth, Zustand, React Hook Form, Zod, Resend.
 
