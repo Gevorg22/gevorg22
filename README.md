@@ -47,19 +47,6 @@
 
 ---
 
-### **[Frontend Interview Questions](https://gevorg22.github.io/frontend-interview-questions/)**
-Интерактивное приложение для подготовки к frontend-собеседованиям.
-
-**Технологии:** React, TypeScript, Ant Design, Vite.
-
-**Возможности:**
-* более 1085 вопросов по 11 категориям;
-* отслеживание прогресса обучения;
-* тёмная и светлая темы;
-* адаптивный интерфейс.
-
----
-
 ### **[Github Account Search Application](https://gevorg22.github.io/react-github-app/)**
 Поиск пользователей GitHub с отображением профиля и репозиториев.
 
