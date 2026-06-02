@@ -34,7 +34,7 @@
 
 ---
 
-### **[Online Clothes Store (Next.js)](https://nextjs-clothes-store.vercel.app/)**
+### **[Online Clothes Store](https://nextjs-clothes-store.vercel.app/)**
 *Next Clothes* — интернет-магазин одежды с каталогом товаров, корзиной и авторизацией по email.
 
 **Технологии:** Next.js, TypeScript, TailwindCSS, ShadCN, Prisma, PostgreSQL, NextAuth, Zustand, React Hook Form, Zod, Resend.
