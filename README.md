@@ -5,7 +5,7 @@
 ### **[FitMetrics](https://github.com/Gevorg22/fit-metrics)**
 *FitMetrics* — минималистичный дневник тренировок с авторизацией по одноразовому коду на email, историей тренировок, отслеживанием веса и статистикой прогресса.
 
-**Технологии:** Next.js 16 (App Router), TypeScript, Ant Design 6, SCSS Modules, Prisma, PostgreSQL, NextAuth v5, Zustand, Recharts, Resend.
+**Технологии:** Next.js 16, TypeScript, Ant Design 6, SCSS Modules, Prisma, PostgreSQL, NextAuth v5, Zustand, Recharts, Resend.
 
 **Возможности:**
 * авторизация по email через OTP-код без паролей;
@@ -21,7 +21,7 @@
 ### **[BarCompass](https://gevorg22.github.io/bar-compass-app/)**
 *BarCompass* — PWA для поиска ближайших баров, пабов, клубов и маркетов через компас, радар и карту.
 
-**Технологии:** Next.js 16, TypeScript strict, Zustand, Framer Motion, MapLibre GL, Overpass API, CSS Modules.
+**Технологии:** Next.js 16, TypeScript, Zustand, Framer Motion, MapLibre GL, Overpass API, CSS Modules.
 
 **Возможности:**
 * компас с анимированной стрелкой к ближайшему заведению;
