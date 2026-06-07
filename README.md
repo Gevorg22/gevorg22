@@ -16,14 +16,14 @@
 
 ---
 
-### **[Geo Quiz](https://github.com/Gevorg22/geography-quiz/)**
+### **[Geo Quiz](https://gevorg22.github.io/geography-quiz/)**
 *Geo Quiz*, квиз по географии с генерацией вопросов и итоговой статистикой.
 
 **Технологии:** React, TypeScript, Vite, Zustand, CSS Modules.
 
 ---
 
-### **[Stack Quiz](https://github.com/Gevorg22/stack-quiz/)**
+### **[Stack Quiz](https://gevorg22.github.io/stack-quiz/)**
 *Stack Quiz*, квиз по JavaScript, TypeScript и React и тд с подсчётом результатов и прогрессом прохождения.
 
 **Технологии:** React, TypeScript, Vite, Zustand, CSS Modules.
