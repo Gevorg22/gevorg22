@@ -1,6 +1,6 @@
 # Frontend Developer
 
-Building web applications with React, Next.js and TypeScript. Focused on performance, UX, scalable architecture and real-world product features.
+Building production-style web applications with React, Next.js and TypeScript. Focused on performance, UX, scalable architecture and real-world product features.
 
 ---
 
@@ -19,7 +19,7 @@ Building web applications with React, Next.js and TypeScript. Focused on perform
 ### [FitMetrics](https://fit-metrics-xi.vercel.app/dashboard)
 Платформа для отслеживания тренировок с персональным кабинетом, авторизацией и аналитикой прогресса.
 
-Позволяет фиксировать тренировки, анализировать динамику и визуализировать результаты в виде интерактивных графиков.
+Позволяет фиксировать тренировки, отслеживать динамику и визуализировать результаты в виде интерактивных графиков.
 
 **Технологии:** Next.js, Prisma, PostgreSQL, NextAuth, Zustand, Recharts
 
@@ -35,18 +35,25 @@ E-commerce платформа с каталогом товаров, корзин
 ---
 
 ### [Geo Quiz](https://gevorg22.github.io/geography-quiz/)
-Интерактивная викторина по географии с генерацией вопросов и системой подсчёта результатов.
+Интерактивная викторина по географии с режимом визуализации через **глобус и карту мира**.
 
-Ориентирована на обучение через игровой формат и мгновенную обратную связь.
+Позволяет проходить тесты по географии с динамической генерацией вопросов и системой подсчёта результатов.
+
+**Особенности:**
+- глобус-режим отображения стран
+- интерактивная карта мира
+- адаптивный mobile-first интерфейс
 
 **Технологии:** React, TypeScript, Vite, Zustand
 
 ---
 
 ### [Stack Quiz](https://gevorg22.github.io/stack-quiz/)
-Платформа для проверки знаний по JavaScript, TypeScript и React.
+Образовательная платформа для проверки знаний по фронтенд-технологиям.
 
-Позволяет проходить тесты, отслеживать прогресс и получать мгновенный результат.
+Пользователь выбирает тему и проходит тестирование по одной из областей (JavaScript, React, TypeScript, HTML, CSS, Сети и Web, Git)
+
+Позволяет отслеживать прогресс и получать мгновенную обратную связь.
 
 **Технологии:** React, TypeScript, Next.js
 
@@ -55,16 +62,16 @@ E-commerce платформа с каталогом товаров, корзин
 ### [BarCompass](https://gevorg22.github.io/bar-compass-app/)
 PWA-приложение для поиска заведений рядом с пользователем с использованием геолокации, компаса и интерактивной карты.
 
-Сочетает данные местоположения, карту и анимации интерфейса для удобного поиска мест.
+Поддерживает mobile-first сценарии и навигацию по карте в реальном времени.
 
 **Технологии:** Next.js, MapLibre GL, Overpass API, Framer Motion, Zustand
 
 ---
 
 ### [3D Room Configurator](https://gevorg22.github.io/react-three-app/)
-Инструмент для 3D-визуализации комнаты с расчётом материалов и интерактивной настройкой сцены.
+Интерактивный 3D-инструмент для визуализации комнаты и расчёта материалов.
 
-Использует WebGL для рендеринга и позволяет работать с пространством в реальном времени.
+Позволяет работать с пространством в реальном времени и изменять сцену в браузере.
 
 **Технологии:** React, React Three Fiber, Three.js, Vite
 
