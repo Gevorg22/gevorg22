@@ -1,5 +1,11 @@
 # Frontend Developer
 
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, Zustand, Redux, MobX, React Query, Ant Design, TailwindCSS, ShadCN, React Hook Form, CSS Modules
+**Backend & Database:** Prisma, PostgreSQL, NextAuth
+**Other:** Recharts, Framer Motion, React Three Fiber, Three.js, MapLibre GL, Overpass API, Resend, Git, Vercel, CI/CD
+
 ## Projects
 
 ### [FitMetrics](https://fit-metrics-xi.vercel.app/)
