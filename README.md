@@ -1,59 +1,76 @@
 # Frontend Developer
 
+Building web applications with React, Next.js and TypeScript. Focused on performance, UX, scalable architecture and real-world product features.
+
+---
+
 ## Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Zustand, Redux, MobX, React Query, Ant Design, TailwindCSS, ShadCN, React Hook Form, CSS Modules
+**Frontend:** React, Next.js, TypeScript, JavaScript, Zustand, Redux, MobX, React Query, Ant Design, TailwindCSS, ShadCN, React Hook Form, CSS Modules  
 
-**Backend & Database:** Prisma, PostgreSQL, NextAuth
+**Backend & Database:** Prisma, PostgreSQL, NextAuth  
 
-**Other:** Recharts, Framer Motion, React Three Fiber, Three.js, MapLibre GL, Overpass API, Resend, Git, Vercel, CI/CD
+**Other:** Recharts, Framer Motion, React Three Fiber, Three.js, MapLibre GL, Overpass API, Resend, Git, CI/CD, Vercel  
 
+---
 
-## Projects
+## Проекты
 
-### [FitMetrics](https://fit-metrics-xi.vercel.app/)
-*FitMetrics*, дневник тренировок с OTP-авторизацией, историей тренировок и статистикой прогресса.
+### [FitMetrics](https://fit-metrics-xi.vercel.app/dashboard)
+Платформа для отслеживания тренировок с персональным кабинетом, авторизацией и аналитикой прогресса.
 
-**Технологии:** Next.js 16, TypeScript, Ant Design, Prisma, PostgreSQL, NextAuth v5, Zustand, Recharts, Resend, Vitest, React Testing Library.
+Позволяет фиксировать тренировки, анализировать динамику и визуализировать результаты в виде интерактивных графиков.
+
+**Технологии:** Next.js, Prisma, PostgreSQL, NextAuth, Zustand, Recharts
 
 ---
 
 ### [Online Clothes Store](https://nextjs-clothes-store.vercel.app/)
-*Next Clothes*, интернет-магазин одежды с каталогом, корзиной и авторизацией по email.
+E-commerce платформа с каталогом товаров, корзиной и авторизацией через email.
 
-**Технологии:** Next.js, TypeScript, TailwindCSS, ShadCN, Prisma, PostgreSQL, NextAuth, Zustand, React Hook Form, Zod, Resend, Vitest, React Testing Library.
+Реализованы фильтрация товаров, сохранение состояния корзины и полноценный пользовательский сценарий покупки.
+
+**Технологии:** Next.js, Prisma, PostgreSQL, NextAuth, TailwindCSS, Zustand, React Hook Form, Zod
 
 ---
 
 ### [Geo Quiz](https://gevorg22.github.io/geography-quiz/)
-*Geo Quiz*, квиз по географии с генерацией вопросов и итоговой статистикой.
+Интерактивная викторина по географии с генерацией вопросов и системой подсчёта результатов.
 
-**Технологии:** React, TypeScript, Vite, Zustand, CSS Modules, Vitest.
+Ориентирована на обучение через игровой формат и мгновенную обратную связь.
+
+**Технологии:** React, TypeScript, Vite, Zustand
 
 ---
 
 ### [Stack Quiz](https://gevorg22.github.io/stack-quiz/)
-*Stack Quiz*, квиз по JavaScript, TypeScript и React с подсчётом результатов и прогрессом прохождения.
+Платформа для проверки знаний по JavaScript, TypeScript и React.
 
-**Технологии:** React, TypeScript, Vite, Zustand, CSS Modules, Vitest.
+Позволяет проходить тесты, отслеживать прогресс и получать мгновенный результат.
+
+**Технологии:** React, TypeScript, Next.js
 
 ---
 
 ### [BarCompass](https://gevorg22.github.io/bar-compass-app/)
-*BarCompass*, PWA для поиска ближайших заведений через компас, радар и карту.
+PWA-приложение для поиска заведений рядом с пользователем с использованием геолокации, компаса и интерактивной карты.
 
-**Технологии:** Next.js 16, TypeScript, Zustand, Framer Motion, MapLibre GL, Overpass API, CSS Modules, Vitest.
+Сочетает данные местоположения, карту и анимации интерфейса для удобного поиска мест.
+
+**Технологии:** Next.js, MapLibre GL, Overpass API, Framer Motion, Zustand
 
 ---
 
 ### [3D Room Configurator](https://gevorg22.github.io/react-three-app/)
-*React-three-app*, 3D-конфигуратор комнаты с расчётом материалов и визуализацией покрытий.
+Инструмент для 3D-визуализации комнаты с расчётом материалов и интерактивной настройкой сцены.
 
-**Технологии:** React 19, TypeScript, Vite, React Three Fiber, Three.js, Vitest.
+Использует WebGL для рендеринга и позволяет работать с пространством в реальном времени.
+
+**Технологии:** React, React Three Fiber, Three.js, Vite
 
 ---
 
-## Contacts
+## Контакты
 
-- Email: [gevorg227@gmail.com](mailto:gevorg227@gmail.com)
-- Telegram: [@Gevorg1989](https://t.me/Gevorg1989)
+- Email: gevorg227@gmail.com
+- Telegram: https://t.me/Gevorg1989
