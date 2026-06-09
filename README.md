@@ -14,70 +14,70 @@ Building production-style web applications with React, Next.js and TypeScript. F
 
 ---
 
-## Проекты
+## Projects
 
 ### [FitMetrics](https://fit-metrics-xi.vercel.app/dashboard)
-Платформа для отслеживания тренировок с персональным кабинетом, авторизацией и аналитикой прогресса.
+A fitness tracking platform with a personal dashboard, authentication and progress analytics.
 
-Позволяет фиксировать тренировки, отслеживать динамику и визуализировать результаты в виде интерактивных графиков.
+Users can log workouts, track progress over time, and visualize results using interactive charts.
 
-**Технологии:** Next.js, Prisma, PostgreSQL, NextAuth, Zustand, Recharts
+**Tech:** Next.js, Prisma, PostgreSQL, NextAuth, Zustand, Recharts
 
 ---
 
 ### [Online Clothes Store](https://nextjs-clothes-store.vercel.app/)
-E-commerce платформа с каталогом товаров, корзиной и авторизацией через email.
+An e-commerce platform with a product catalog, shopping cart and email-based authentication.
 
-Реализованы фильтрация товаров, сохранение состояния корзины и полноценный пользовательский сценарий покупки.
+Features include product filtering, cart state persistence and a complete purchase flow.
 
-**Технологии:** Next.js, Prisma, PostgreSQL, NextAuth, TailwindCSS, Zustand, React Hook Form, Zod
+**Tech:** Next.js, Prisma, PostgreSQL, NextAuth, TailwindCSS, Zustand, React Hook Form, Zod
 
 ---
 
 ### [Geo Quiz](https://gevorg22.github.io/geography-quiz/)
-Интерактивная викторина по географии с режимом визуализации через **глобус и карту мира**.
+An interactive geography quiz with visualization modes using a **globe and world map**.
 
-Позволяет проходить тесты по географии с динамической генерацией вопросов и системой подсчёта результатов.
+Allows users to take quizzes with dynamically generated questions and instant result tracking.
 
-**Особенности:**
-- глобус-режим отображения стран
-- интерактивная карта мира
-- адаптивный mobile-first интерфейс
+**Features:**
+- globe-based country visualization
+- interactive world map
+- responsive mobile-first UI
 
-**Технологии:** React, TypeScript, Vite, Zustand
+**Tech:** React, TypeScript, Vite, Zustand
 
 ---
 
 ### [Stack Quiz](https://gevorg22.github.io/stack-quiz/)
-Образовательная платформа для проверки знаний по фронтенд-технологиям.
+An educational platform for testing frontend knowledge.
 
-Пользователь выбирает тему и проходит тестирование по одной из областей (JavaScript, React, TypeScript, HTML, CSS, Сети и Web, Git)
+Users select a topic and take quizzes across different areas (JavaScript, React, TypeScript, HTML, CSS, Web fundamentals, Git).
 
-Позволяет отслеживать прогресс и получать мгновенную обратную связь.
+Provides progress tracking and instant feedback.
 
-**Технологии:** React, TypeScript, Next.js
+**Tech:** React, TypeScript, Next.js
 
 ---
 
 ### [BarCompass](https://gevorg22.github.io/bar-compass-app/)
-PWA-приложение для поиска заведений рядом с пользователем с использованием геолокации, компаса и интерактивной карты.
+A PWA for discovering nearby venues using geolocation, compass navigation and an interactive map.
 
-Поддерживает mobile-first сценарии и навигацию по карте в реальном времени.
+Supports mobile-first usage and real-time map navigation experience.
 
-**Технологии:** Next.js, MapLibre GL, Overpass API, Framer Motion, Zustand
+**Tech:** Next.js, MapLibre GL, Overpass API, Framer Motion, Zustand
 
 ---
 
 ### [3D Room Configurator](https://gevorg22.github.io/react-three-app/)
-Интерактивный 3D-инструмент для визуализации комнаты и расчёта материалов.
+An interactive 3D tool for room visualization and material calculation.
 
-Позволяет работать с пространством в реальном времени и изменять сцену в браузере.
+Enables real-time scene manipulation and spatial configuration directly in the browser.
 
-**Технологии:** React, React Three Fiber, Three.js, Vite
+**Tech:** React, React Three Fiber, Three.js, Vite
 
 ---
 
-## Контакты
+## Contacts
 
 - Email: gevorg227@gmail.com
 - Telegram: https://t.me/Gevorg1989
