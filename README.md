@@ -1,8 +1,5 @@
 # Frontend Developer
 
-Building production-style web applications with React, Next.js and TypeScript. Focused on performance, UX, scalable architecture and real-world product features.
-
----
 
 ## Tech Stack
 
