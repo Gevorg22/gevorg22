@@ -13,7 +13,7 @@
 
 ## Projects
 
-### [FitMetrics](https://fit-metrics-xi.vercel.app/dashboard)
+### [FitMetrics](https://fit-metrics-production.up.railway.app)
 A fitness tracking platform with a personal dashboard, authentication and progress analytics.
 
 Users can log workouts, track progress over time, and visualize results using interactive charts.
