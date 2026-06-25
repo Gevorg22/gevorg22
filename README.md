@@ -22,6 +22,15 @@ Users can log workouts, track progress over time, and visualize results using in
 
 ---
 
+### [**gkara-save-bot**](https://github.com/Gevorg22/gkara-save-bot)
+Бесплатный Telegram-бот для скачивания видео и фото из YouTube и Instagram.
+
+Работает на Node.js с использованием yt-dlp и ffmpeg, поддерживает автоматическое сжатие файлов и деплой через Docker.
+
+[Попробовать бота](https://t.me/gkara_save_bot)
+
+---
+
 ### [Online Clothes Store](https://nextjs-clothes-store.vercel.app/)
 An e-commerce platform with a product catalog, shopping cart and email-based authentication.
 
