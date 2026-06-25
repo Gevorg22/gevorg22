@@ -23,7 +23,7 @@ Users can log workouts, track progress over time, and visualize results using in
 ---
 
 ### [**gkara-save-bot**](https://github.com/Gevorg22/gkara-save-bot)
-Бесплатный Telegram-бот для скачивания видео и фото из YouTube и Instagram.
+Бесплатный Telegram-бот для скачивания видео, истории и фото из Instagram.
 
 Работает на Node.js с использованием yt-dlp и ffmpeg, поддерживает автоматическое сжатие файлов и деплой через Docker.
 
