@@ -7,7 +7,7 @@
 
 **Backend & Database:** Prisma, PostgreSQL, NextAuth  
 
-**Other:** Recharts, Framer Motion, React Three Fiber, Three.js, MapLibre GL, Overpass API, Resend, Git, CI/CD, Vercel  
+**Other:** Recharts, Framer Motion, React Three Fiber, Three.js, MapLibre GL, Overpass API, Resend, Git, CI/CD, Vercel, Telegram Bot API, Telegram Mini App SDK
 
 ---
 
