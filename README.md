@@ -5,7 +5,7 @@
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, Zustand, Redux, MobX, React Query, Ant Design, TailwindCSS, ShadCN, React Hook Form, CSS Modules  
 
-**Backend & Database:** Prisma, PostgreSQL, NextAuth  
+**Backend & Database:** Prisma, PostgreSQL, NextAuth, Node.js
 
 **Other:** Recharts, Framer Motion, React Three Fiber, Three.js, MapLibre GL, Overpass API, Resend, Git, CI/CD, Vercel, Telegram Bot API, Telegram Mini App SDK
 
