@@ -13,7 +13,7 @@
 
 ## Projects
 
-### [fit-metrics] [Веб-приложение](https://fit-metrics-xi.vercel.app) · [Telegram Mini App](https://t.me/fitmetrics_app_bot/fitmetrics)
+### fitMetrics [Веб-приложение](https://fit-metrics-xi.vercel.app) · [Telegram Mini App](https://t.me/fitmetrics_app_bot/fitmetrics)
 
 Платформа для отслеживания тренировок с персональным кабинетом, авторизацией и аналитикой прогресса. Позволяет фиксировать тренировки, отслеживать динамику и визуализировать результаты в виде интерактивных графиков.
 
