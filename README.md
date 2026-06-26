@@ -13,12 +13,15 @@
 
 ## Projects
 
-### [FitMetrics](https://fit-metrics-xi.vercel.app)
-Платформа для отслеживания тренировок с персональным кабинетом, авторизацией и аналитикой прогресса.
+### [fit-metrics](https://fit-metrics-xi.vercel.app) · [Telegram Mini App](https://t.me/fitmetrics_app_bot/fitmetrics)
 
-Позволяет фиксировать тренировки, отслеживать динамику и визуализировать результаты в виде интерактивных графиков.
+Платформа для отслеживания тренировок с персональным кабинетом, авторизацией и аналитикой прогресса. Позволяет фиксировать тренировки, отслеживать динамику и визуализировать результаты в виде интерактивных графиков.
 
-**Tech:** Next.js, Prisma, PostgreSQL, NextAuth, Zustand, Recharts
+Доступна как веб-версия, так и Telegram Mini App, с двойной авторизацией (Telegram или почта с OTP-кодом).
+
+Встроенный AI-советник на базе Groq помогает подбирать вес и повторения, а AI-сканер еды по фото определяет КБЖУ блюда.
+
+**Tech:** Next.js 16, TypeScript, Prisma, PostgreSQL (Neon), NextAuth.js, Zustand, Recharts, Ant Design, Groq AI, Telegram Bot API, Telegram Mini App SDK
 
 ---
 
