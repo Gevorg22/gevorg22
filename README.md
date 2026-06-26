@@ -14,9 +14,9 @@
 ## Projects
 
 ### [FitMetrics](https://fit-metrics-production.up.railway.app)
-A fitness tracking platform with a personal dashboard, authentication and progress analytics.
+Платформа для отслеживания тренировок с персональным кабинетом, авторизацией и аналитикой прогресса.
 
-Users can log workouts, track progress over time, and visualize results using interactive charts.
+Позволяет фиксировать тренировки, отслеживать динамику и визуализировать результаты в виде интерактивных графиков.
 
 **Tech:** Next.js, Prisma, PostgreSQL, NextAuth, Zustand, Recharts
 
